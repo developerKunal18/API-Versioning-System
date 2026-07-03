@@ -1,0 +1,12 @@
+GET /api/v2/users
+
+{
+  "version": "v2",
+  "users": [
+    {
+      "id": 1,
+      "name": "Kunal",
+      "email": "kunal@example.com"
+    }
+  ]
+}
